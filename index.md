@@ -1,3 +1,7 @@
+Stack
+- React Native
+- AWS Lambda, AWS S3
+
 Features
 - show last 10 draw results
 - upload draw ticket, analyze and save the draw detail
