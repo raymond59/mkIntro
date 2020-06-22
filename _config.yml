@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: null
-name: Mark Six Reader
+title: Mark Six Reader
+github:
+  is_project_page: false
