@@ -8,6 +8,9 @@ Features
 - Manual input ticket draw number
 - Auto check ticket against draw result
 
+Status
+- Publishing to app store
+
 <div style="display: inline-block">
   
   <img src="https://mksix2020.s3.us-east-2.amazonaws.com/github/IMG_0552.PNG" style="width: 40%;height: 40%;object-fit: contain;">
