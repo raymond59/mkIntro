@@ -4,9 +4,9 @@ Stack
 
 Features
 - show last 10 draw results
-- upload draw ticket, analyze and save the draw detail
+- shoot and upload draw tickets, then analyze and save the draw detail
 - manual input ticket draw number
-- auto check ticket against prize result
+- auto check ticket against draw result
 
 <div style="display: inline-block">
   
