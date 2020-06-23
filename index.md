@@ -3,10 +3,10 @@ Stack
 - AWS Lambda, AWS S3
 
 Features
-- show last 10 draw results
-- shoot and upload draw tickets, then analyze and save the draw detail
-- manual input ticket draw number
-- auto check ticket against draw result
+- Show last 10 draw results
+- Analyze and save the draw detail from camera/album
+- Manual input ticket draw number
+- Auto check ticket against draw result
 
 <div style="display: inline-block">
   
